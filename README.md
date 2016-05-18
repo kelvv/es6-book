@@ -4,8 +4,8 @@
 
 [本书地址](https://jarvin-guan.gitbooks.io/es6-features/content/)
 
-####作者：Jarvin
-####Github: https://github.com/Jarvin-Guan/es6-features
+####作者：kelvin
+####Github: https://github.com/kelvv/es6-book
 
 #####本程序是爬虫，获取ES6在各个版本中的函数支持，目标网站：[ES6 Web](http://node.green/)
 
