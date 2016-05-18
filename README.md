@@ -1,6 +1,6 @@
 # ES6 Features Book
 
-![](http://thumbnail0.baidupcs.com/thumbnail/bb6bc87bc17795c0f6e77b8b222adb24?fid=1129354258-250528-538796242172703&time=1462665600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-vVTKlud6gqu73SBOFUsVPhjNHXY%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=2977233643732368070&dp-callid=0&size=c710_u400&quality=100)
+![](http://upload-images.jianshu.io/upload_images/1952818-7bd17a9dd6401dc6.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 [本书地址](https://jarvin-guan.gitbooks.io/es6-features/content/)
 
